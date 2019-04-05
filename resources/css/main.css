@@ -400,7 +400,6 @@ body > #vue-app, body > #vue-error {
 }
 
 .cmp-product-thumb .add-to-basket-lg-container {
-  border-color: transparent #ffce00 transparent transparent;
   color: #222222;
 }
 
@@ -1535,10 +1534,6 @@ a.nav-link.active:hover, a.nav-link:hover {
 
 .cmp-product-thumb {
   background-color: transparent;
-}
-
-.cmp-product-thumb .thumb-background {
-  background-color: #222222;
 }
 
 @media (min-width: 544px){
