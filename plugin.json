@@ -1,0 +1,22 @@
+{
+    "version"           :   "0.0.1",
+    "license"           :   "MIT",
+    "name"              :   "Stoune",
+    "shortDescription"  :   { "de": "Ein Theme für Plentymarkets Version 3.0.0 ", "en": "Lotu Theme for Ceres 3.0.0" },
+    "namespace"         :   "Stoune",
+    "author"            :   "Ayoub El Hobbi",
+    "email"             :   "ayoub@elhobbi.de",
+    "phone"             :   "+49 (0)211 50661662",
+    "price"             :   0.00,
+    "categories"        :   [3518],
+    "type"              :   "theme",
+    "serviceProvider"   :   "Stoune\\Providers\\StouneServiceProvider",
+    "dataProviders"     :
+    [
+        {
+            "key"           :"Stoune\\Containers\\StouneContainer",
+            "name"          :"Stoune Theme",
+            "description"   :"Add changes to the CSS file"
+        }
+    ]
+}
