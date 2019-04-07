@@ -38,7 +38,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Acme', sans-serif !important;
+	font-family: 'Baloo', sans-serif !important;
   color: #000048;
 }
 
@@ -80,7 +80,7 @@ table.material_table thead {
 }
 
 .material_table th {
-  font-family: 'Acme', sans-serif;
+  font-family: 'Baloo', sans-serif;
 }
 
 /* Table Design */
@@ -332,7 +332,7 @@ body > #vue-app, body > #vue-error {
 .btn-success {
   background-color: #2b8dff;
   border-color: #2b8dff;
-  font-family: "Acme", sans-serif;
+  font-family: "Baloo", sans-serif;
   color: #222222;
   border-radius: 1rem;
 }
@@ -371,7 +371,7 @@ body > #vue-app, body > #vue-error {
 }
 
 .price span {
-    font-family: 'Acme', sans-serif !important;
+    font-family: 'Baloo', sans-serif !important;
     font-size: 1.8rem;
 }
 
@@ -428,7 +428,7 @@ body > #vue-app, body > #vue-error {
   background-color: #2b8dff !important;
   border-color: #2b8dff;
   border-radius: 1.4rem;
-  font-family: 'Acme', sans-serif !important;
+  font-family: 'Baloo', sans-serif !important;
 }
 
 .btn-primary:hover {
@@ -536,7 +536,7 @@ a.bg-primary:focus, a.bg-primary:hover {
 }
 
 header.basket-header.p-a-1 {
-  font-family: "Acme", sans-serif;
+  font-family: "Baloo", sans-serif;
 }
 
 .custom-select{
@@ -697,7 +697,7 @@ div.col-md-5.single-rightside.m-t-1 > span.vat.small.text-muted {
 .modal-title {
     text-align: center;
     color: #000;
-    font-family: 'Acme', sans-serif;
+    font-family: 'Baloo', sans-serif;
 }
 
 .modal-body h1, .modal-body h2, .modal-body h3, .modal-body h4, .modal-body h5, .modal-body h6, .modal-body p {
@@ -828,7 +828,7 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 }
 
 .cmp-totals .h3 {
-  font-family: "Acme", sans-serif;
+  font-family: "Baloo", sans-serif;
 }
 
 .widget-image-carousel.widget-primary .widget-caption h2, .widget-image-carousel.widget-primary .widget-caption .h2 {
@@ -990,7 +990,7 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 }
 
 .ueberschriftGallerie span {
-  font-family: "Acme", sans-serif;
+  font-family: "Baloo", sans-serif;
 }
 
 .videoGallerySingle img {
@@ -1053,7 +1053,7 @@ button.btn.btn-block.btn-default {
   color: #000;
   background-color: #2b8dff;
   border-color: #2b8dff;
-  font-family: "Acme", sans-serif;
+  font-family: "Baloo", sans-serif;
   border-radius: 1.4rem;
 }
 
@@ -1111,7 +1111,7 @@ button.btn.btn-block.btn-default {
 .alleinstellung p {
   margin-top: 1.2rem;
   font-size: 1.5rem;
-  font-family: 'Acme', sans-serif;
+  font-family: 'Baloo', sans-serif;
 }
 
 .artikelnummerArtikelansicht {
@@ -1245,7 +1245,7 @@ button.btn.btn-block.btn-default {
 }
 
 .single .title span {
-    font-family: 'Acme', sans-serif !important;
+    font-family: 'Baloo', sans-serif !important;
 }
 
 .pricing-price {
@@ -1381,12 +1381,12 @@ button.btn.btn-block.btn-default {
 
 span.fuerHalterung {
   font-size: 2rem;
-  font-family: 'Acme', sans-serif;
+  font-family: 'Baloo', sans-serif;
 }
 
 span.passendHalterung {
   font-size: 1.2rem;
-  font-family: 'Acme', sans-serif;
+  font-family: 'Baloo', sans-serif;
 }
 
 .halterung_inner {
@@ -1446,7 +1446,7 @@ span.passendHalterung {
 
 .single .nav-tabs .nav-item .nav-link {
     font-size: 1em;
-    font-family: 'Acme', sans-serif !important;
+    font-family: 'Baloo', sans-serif !important;
     color: #222222;
     background-color: #ffffff;
     border: none;
@@ -1782,7 +1782,7 @@ nav.navbar.megamenu #mainNavbarCollapsable ul.mainmenu > li > ul.collapse {
 
 @media (min-width: 768px) {
 .single .nav-tabs .nav-item .nav-link.active {
-    font-family: 'Acme', sans-serif !important;
+    font-family: 'Baloo', sans-serif !important;
     font-size: 1em;
 }
 
