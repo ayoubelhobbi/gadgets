@@ -158,11 +158,6 @@ table.material_table thead {
     margin-bottom: 10px;
 }
 
-.footer li:before {
-    content: "• ";
-    color: #ffce00;
-    padding-right: 5px;
-}
 
 .footer h3 {
     margin-bottom: 18px;
