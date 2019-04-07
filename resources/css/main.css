@@ -1664,6 +1664,7 @@ nav.navbar.megamenu #mainNavbarCollapsable ul.mainmenu>li>ul.collapse>li ul.nav-
 @media (min-width: 544px) {
 .cmp-product-thumb .thumb-content {
     padding: 1.3rem;
+    background-color: #f7f7f9;
 }
 
 }
