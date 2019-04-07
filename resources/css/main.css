@@ -25,11 +25,11 @@ a {
 }
 
 a:hover {
-  color: #ffce00 !important;
+  color: #2b8dff !important;
 }
 
 a:focus {
-  color: #ffce00;
+  color: #2b8dff !important;
   opacity: 0.8;
 }
 
