@@ -11,8 +11,8 @@ website: http://ayouncif.com
 
 
 @font-face {
-  font-family: "akaChen";
-  src: url("../documents/akachen/akaChen.ttf");
+  font-family: "indie";
+  src: url("../documents/Indie/IndieFlower.ttf");
 }
 
 /* Wenn Theme fertig dann entfernen */
@@ -38,7 +38,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'akaChen', sans-serif !important;
+	font-family: 'indie', sans-serif !important;
   color: #000048;
 }
 
