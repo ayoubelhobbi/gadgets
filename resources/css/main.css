@@ -952,6 +952,7 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 
 .cmp-search-box {
   margin-top: 0.1rem;
+  background-color: transparent;
 }
 
 .cmp-search-box .search-submit {
