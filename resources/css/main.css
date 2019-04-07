@@ -386,7 +386,7 @@ body > #vue-app, body > #vue-error {
 }
 
 #mainNavbarCollapsable ul.mainmenu {
-  
+
 }
 
 .top-bar .controls-list .control-basket .toggle-basket-preview .badge {
@@ -594,6 +594,7 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 
 .cmp-product-thumb .prices {
   padding-bottom: 1rem;
+  font-family: 'Baloo', sans-serif;
 }
 
 .alert-info {
