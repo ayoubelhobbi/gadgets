@@ -172,6 +172,11 @@ table.material_table thead {
   font-size: 0.8rem;
 }
 
+.copyright {
+  display: block;
+  margin: 0 auto;
+}
+
 .copyright p {
   font-size: 0.8rem;
 }
