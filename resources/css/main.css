@@ -638,10 +638,11 @@ div.col-md-5.single-rightside.m-t-1 > span.vat.small.text-muted {
 }
 
 .wrapper-main header .controls-list {
-  background-color: #222222;
-  border-bottom: 1px solid #2b8dff;
-  border-left: 1px solid #2b8dff;
-  border-right: 1px solid #2b8dff;
+  background-color: #f7f7f9;
+}
+
+.top-bar .controls-list>li a:not(.btn) {
+  color: #222222;
 }
 
 .cmp-contact .contact-card p a {
