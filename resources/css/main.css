@@ -263,10 +263,9 @@ body > #vue-app, body > #vue-error {
 }
 
 .list-controls .list-controls-inner {
-  background: #222222;
+  background: #f7f7f9;
   margin-bottom: 0rem !important;
   padding: 0.5rem 1rem 0.5rem 0.5rem;
-  border: 1px solid #2b8dff;
 }
 
 .cmp-method-list .method-list-item {
