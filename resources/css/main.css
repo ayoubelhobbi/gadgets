@@ -544,15 +544,6 @@ header.basket-header.p-a-1 {
   font-family: "Baloo", sans-serif;
 }
 
-.custom-select{
-  background: url(https://www.lotu.de/images/arrow-bottom.png);
-  color: #fff;
-  background-repeat: no-repeat;
-  background-position: right;
-  background-position-x: 87%;
-  background-size: 10px;
-}
-
 .input-unit {
 
 }
@@ -1522,10 +1513,6 @@ a.nav-link.active:hover, a.nav-link:hover {
   .wrapper-main .navbar {
   	padding: 1px 1px 1px 1px !important;
   }
-
-  .custom-select {
-    background-position-x: 94%;
-  }
   .widget-image-carousel.widget-primary .widget-caption h2, .widget-image-carousel.widget-primary .widget-caption .h2 {
     right: 6rem;
     font-size: 1rem;
@@ -1556,10 +1543,6 @@ a.nav-link.active:hover, a.nav-link:hover {
 @media (max-width: 991px) {
 .cmp-product-thumb .thumb-title, .cmp-product-thumb .price {
     line-height: 1.5rem;
-}
-
-.custom-select {
-  background-position-x: 94%;
 }
 
 }
