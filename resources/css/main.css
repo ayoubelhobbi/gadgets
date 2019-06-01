@@ -514,23 +514,8 @@ a.bg-primary:focus, a.bg-primary:hover {
   background-color: transparent;
 }
 
-.qty-box .qty-input {
-  border: 2px solid #2b8dff;
-  background-color: #000;
-  color: #fff;
-  border-right: 1px solid #2b8dff;
-  border-top-left-radius: 1.4rem;
-  border-bottom-left-radius: 1.4rem;
-  width: 87px;
-}
 
-.qty-box .qty-btn-container {
-  border: 2px solid #2b8dff;
-  background: #000;
-  border-top-right-radius: 1.4rem;
-  border-bottom-right-radius: 1.4rem;
-  width: 50px;
-}
+
 
 .qty-box .qty-btn-container .qty-btn > .qty-sign{
   color: #fff;
@@ -545,7 +530,7 @@ header.basket-header.p-a-1 {
 }
 
 .input-unit {
-
+  width: 180px;
 }
 
 .input-unit label, .input-unit .input-unit-label {
