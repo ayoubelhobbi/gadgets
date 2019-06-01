@@ -919,8 +919,8 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 }
 
 .tab-content {
-  background-color: #222222;
-  color: #fff;
+  background-color: #f7f7f9;
+  color: #222222;
   padding: 2rem;
 }
 
@@ -1795,8 +1795,8 @@ nav.navbar.megamenu #mainNavbarCollapsable ul.mainmenu > li > ul.collapse {
 }
 
 .single .nav-tabs .nav-item .nav-link.active, .single .nav-tabs .nav-item .nav-link:hover {
-  color: #ffffff !important;
-  background: #222222;
+  color: #222222 !important;
+  background: #f7f7f9;
   border: none;
   border-top-right-radius: 2rem;
 }
