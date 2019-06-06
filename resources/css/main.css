@@ -263,10 +263,9 @@ body > #vue-app, body > #vue-error {
 }
 
 .list-controls .list-controls-inner {
-  background: #222222;
+  background: #f7f7f9;
   margin-bottom: 0rem !important;
   padding: 0.5rem 1rem 0.5rem 0.5rem;
-  border: 1px solid #2b8dff;
 }
 
 .cmp-method-list .method-list-item {
@@ -521,23 +520,8 @@ a.bg-primary:focus, a.bg-primary:hover {
   background-color: transparent;
 }
 
-.qty-box .qty-input {
-  border: 2px solid #2b8dff;
-  background-color: #000;
-  color: #fff;
-  border-right: 1px solid #2b8dff;
-  border-top-left-radius: 1.4rem;
-  border-bottom-left-radius: 1.4rem;
-  width: 87px;
-}
 
-.qty-box .qty-btn-container {
-  border: 2px solid #2b8dff;
-  background: #000;
-  border-top-right-radius: 1.4rem;
-  border-bottom-right-radius: 1.4rem;
-  width: 50px;
-}
+
 
 .qty-box .qty-btn-container .qty-btn > .qty-sign{
   color: #fff;
@@ -551,23 +535,12 @@ header.basket-header.p-a-1 {
   font-family: "Baloo", sans-serif;
 }
 
-.custom-select{
-  background: url(https://www.lotu.de/images/arrow-bottom.png);
-  color: #fff;
-  background-repeat: no-repeat;
-  background-position: right;
-  background-position-x: 87%;
-  background-size: 10px;
-}
-
 .input-unit {
-  border: 2px solid #2b8dff;
-  border-radius: 1.4rem;
+  width: 180px;
 }
 
 .input-unit label, .input-unit .input-unit-label {
-  color: #fff;
-  /* color: #222222; */
+
 
 }
 
@@ -671,10 +644,11 @@ div.col-md-5.single-rightside.m-t-1 > span.vat.small.text-muted {
 }
 
 .wrapper-main header .controls-list {
-  background-color: #222222;
-  border-bottom: 1px solid #2b8dff;
-  border-left: 1px solid #2b8dff;
-  border-right: 1px solid #2b8dff;
+  background-color: #f7f7f9;
+}
+
+.top-bar .controls-list>li a:not(.btn) {
+  color: #222222;
 }
 
 .cmp-contact .contact-card p a {
@@ -928,8 +902,8 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 }
 
 .tab-content {
-  background-color: #222222;
-  color: #fff;
+  background-color: #f7f7f9;
+  color: #222222;
   padding: 2rem;
 }
 
@@ -1531,10 +1505,6 @@ a.nav-link.active:hover, a.nav-link:hover {
   .wrapper-main .navbar {
   	padding: 1px 1px 1px 1px !important;
   }
-
-  .custom-select {
-    background-position-x: 94%;
-  }
   .widget-image-carousel.widget-primary .widget-caption h2, .widget-image-carousel.widget-primary .widget-caption .h2 {
     right: 6rem;
     font-size: 1rem;
@@ -1565,10 +1535,6 @@ a.nav-link.active:hover, a.nav-link:hover {
 @media (max-width: 991px) {
 .cmp-product-thumb .thumb-title, .cmp-product-thumb .price {
     line-height: 1.5rem;
-}
-
-.custom-select {
-  background-position-x: 94%;
 }
 
 }
@@ -1804,8 +1770,8 @@ nav.navbar.megamenu #mainNavbarCollapsable ul.mainmenu > li > ul.collapse {
 }
 
 .single .nav-tabs .nav-item .nav-link.active, .single .nav-tabs .nav-item .nav-link:hover {
-  color: #ffffff !important;
-  background: #222222;
+  color: #222222 !important;
+  background: #f7f7f9;
   border: none;
   border-top-right-radius: 2rem;
 }
