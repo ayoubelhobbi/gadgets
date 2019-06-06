@@ -350,13 +350,6 @@ body > #vue-app, body > #vue-error {
   border-bottom: transparent;
 }
 
-.ruLa_inner {
-  margin: 1rem;
-  padding: 2rem;
-  background: #222;
-  }
-  
-
 .navbar {
   background: none;
 }
