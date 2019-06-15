@@ -398,7 +398,7 @@ body > #vue-app, body > #vue-error {
 }
 
 .top-bar .controls-list .control-basket .toggle-basket-preview {
-  background-color: transparent;
+  background-color: #2b8dff;
 }
 
 .top-bar .controls-list .control-basket .toggle-basket-preview:hover {
@@ -529,9 +529,9 @@ header.basket-header.p-a-1 {
   font-family: "Baloo", sans-serif;
 }
 
-.input-unit {
+/* .input-unit {
   width: 180px;
-}
+} */
 
 .input-unit label, .input-unit .input-unit-label {
 
