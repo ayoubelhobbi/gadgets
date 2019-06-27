@@ -760,22 +760,6 @@ hr {
   border-top: 1px solid #6c757d;
 }
 
-
-.basket-item-container .qty-box .qty-input {
-  width: 35px;
-  border-top-left-radius: 1.2rem;
-  border-bottom-left-radius: 1.2rem;
-}
-
-.basket-item-container-right .qty-box .qty-btn-container {
-    border: 1px solid #2b8dff;
-    border-top-right-radius: 1.2rem;
-    border-bottom-right-radius: 1.2rem;
-    width: 30px;
-    border: 1px solid #2b8dff;
-    height: 30px;
-}
-
 .basket-item-container .basket-item .basket-item-container-right .price-box {
   min-width: 80px;
 }
@@ -832,11 +816,6 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 .widget-image-carousel.widget-primary:hover .widget-caption h2, .widget-image-carousel.widget-primary:hover .widget-caption .h2 {
   background-color: transparent;
   color: #2b8dff;
-}
-
-.basket-item-container-right .qty-box .qty-input {
-  border: 1px solid #2b8dff;
-  height: 30px;
 }
 
 .cmp-address-list .dropdown-menu {
