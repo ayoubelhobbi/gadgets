@@ -794,8 +794,8 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
 }
 
 .bg-white {
-    background-color: #222222 !important;
-    color: #fff;
+    background-color: transparent;
+    color: #222;
 }
 
 .basket-item-container .basket-item .item-additional-information-container .basket-expand:after {
