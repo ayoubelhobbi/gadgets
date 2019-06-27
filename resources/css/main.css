@@ -856,10 +856,6 @@ span.vat-porto-info.small.text-muted, .btn-labeled, .basket-preview .totals, spa
   background-color: #2b8dff;
 }
 
-.card, .cmp-address-list .items > div:first-child {
-  background-color: #000;
-}
-
 .add-item .fa {
   color: #222222;
 }
