@@ -428,7 +428,7 @@ body > #vue-app, body > #vue-error {
 }
 
 .btn-primary {
-  color: #000 !important;
+  color: #FFF !important;
   background-color: #2b8dff !important;
   border-color: #2b8dff;
   border-radius: 1.4rem;
