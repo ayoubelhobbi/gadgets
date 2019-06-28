@@ -385,7 +385,7 @@ body > #vue-app, body > #vue-error {
 }
 
 .breadcrumb-item a {
-    color: #ffffff;
+    color: #b2b1a7;
 }
 
 #mainNavbarCollapsable ul.mainmenu {
@@ -1304,9 +1304,6 @@ button.btn.btn-block.btn-default {
   background-color: #2b8dff !important;
 }
 
-.wrapper-inner.basket-preview {
-    background: #222222;
-}
 
 .basket-preview .close {
     color: #fff;
@@ -1611,12 +1608,6 @@ nav.navbar.megamenu #mainNavbarCollapsable ul.mainmenu>li>ul.collapse>li ul.nav-
     background-color: #f7f7f9;
 }
 
-}
-
-@media (min-width: 544px) {
-body > #vue-app.open-right .wrapper-right, body > #vue-error.open-right .wrapper-right {
-    background: #222222;
-}
 }
 
 @media (min-width: 900px) {
