@@ -436,7 +436,7 @@ body > #vue-app, body > #vue-error {
 }
 
 .btn-primary:hover {
-  color: #222222 !important;
+  color: #ffffff !important;
   background-color: #2b8dff !important;
   border-color: #000 !important;
   opacity: 0.8 !important;
