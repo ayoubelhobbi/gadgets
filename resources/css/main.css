@@ -760,6 +760,10 @@ hr {
   border-top: 1px solid #6c757d;
 }
 
+.anicon>.anicon-search-item:before {
+  background: #222222;
+}
+
 .basket-item-container .basket-item .basket-item-container-right .price-box {
   min-width: 80px;
 }
