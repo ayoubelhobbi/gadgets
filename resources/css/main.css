@@ -735,6 +735,11 @@ div.col-md-5.single-rightside.m-t-1 > span.vat.small.text-muted {
   color: #ffffff;
 }
 
+.mehrwertsteuerHinweisFooter p {
+  text-align: center;
+  font-size: 0.7rem;
+}
+
 .payment-link-style {
   color: #2b8dff !important;
   font-weight: bold;
