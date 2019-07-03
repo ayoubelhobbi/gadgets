@@ -735,10 +735,6 @@ div.col-md-5.single-rightside.m-t-1 > span.vat.small.text-muted {
   color: #ffffff;
 }
 
-.page-content.basket, .page-content.checkout, .page-content.contact, .page-content.myaccount {
-  color: #ffffff;
-}
-
 .payment-link-style {
   color: #2b8dff !important;
   font-weight: bold;
